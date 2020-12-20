@@ -5,6 +5,7 @@ langs: fr-fr
 ---
 ![](https://pad.lescommuns.org/uploads/upload_6e96ed9e501395352e0944fffc4616db.png)
 
+Ce doc est synchronisé via git.
 
 :::info
 **Forum de discussion du projet** : https://primeverres.le-mans.co/forum
